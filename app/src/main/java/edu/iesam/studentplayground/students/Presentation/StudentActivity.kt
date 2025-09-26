@@ -50,8 +50,6 @@ class StudentActivity : AppCompatActivity() {
         }
 
 
-
-
         //  viewModel.updateStudentClicked(student)  //
       //
 
